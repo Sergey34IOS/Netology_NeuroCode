@@ -1,7 +1,7 @@
 # ios-homework-storyboard
 # Netology_NeuroCode
 # Netology_NeuroCode
- '' css
+
  
  Мы на столько крутые, что уже успели поработать со следующими компаниями:
 
@@ -12,7 +12,9 @@
 
 Ниже пример кода из нашего приложения:
 
+```css
 .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }
+```
